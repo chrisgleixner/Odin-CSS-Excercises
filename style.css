@@ -1,0 +1,26 @@
+div {
+  background-color: red;
+  color: white;
+  font-size: 32px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.odd {
+  background-color: pink;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#n2 {
+  color: blue;
+  font-size: 36px;
+}
+
+#cooler {
+  font-size: 24px;
+}
+#n4 {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
