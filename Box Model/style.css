@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin: 0;
+}
+
+.header {
+  height: 100px;
+  background-color: #3498db;
+  padding: 20px;
+  text-align: center;
+}
+
+.nav {
+  width: 250px;
+  height: 100vh;
+  background-color: #2ecc71;
+  position: sticky;
+}
+
+li {
+  padding: 15px;
+  display: block;
+}
+
+main {
+  margin-left: 250px; /* Same as the nav width */
+  padding: 20px;
+
+  .footer {
+    padding: 20px;
+    text-align: center;
+  }
+}
